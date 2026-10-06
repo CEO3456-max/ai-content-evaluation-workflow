@@ -1,0 +1,17 @@
+test_classification (test_evaluator.TestScoring.test_classification) ... ok
+test_full_evaluation (test_evaluator.TestScoring.test_full_evaluation) ... ok
+test_known_weighted_score (test_evaluator.TestScoring.test_known_weighted_score) ... ok
+test_perfect_score (test_evaluator.TestScoring.test_perfect_score) ... ok
+test_zero_score (test_evaluator.TestScoring.test_zero_score) ... ok
+test_boolean_score_is_rejected (test_evaluator.TestValidation.test_boolean_score_is_rejected) ... ok
+test_invalid_url (test_evaluator.TestValidation.test_invalid_url) ... ok
+test_missing_field (test_evaluator.TestValidation.test_missing_field) ... ok
+test_missing_score (test_evaluator.TestValidation.test_missing_score) ... ok
+test_score_out_of_range (test_evaluator.TestValidation.test_score_out_of_range) ... ok
+test_unknown_score (test_evaluator.TestValidation.test_unknown_score) ... ok
+test_valid_record (test_evaluator.TestValidation.test_valid_record) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.001s
+
+OK

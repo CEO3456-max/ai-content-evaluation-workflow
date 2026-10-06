@@ -1,0 +1,24 @@
+
+--- Evaluation 1 ---
+Query: best places to visit in Nairobi Kenya
+Title: Top Places to Visit in Nairobi
+URL: https://example.com/nairobi-guide
+Overall score: 85.00/100
+Rating: Excellent
+Notes: Directly addresses the query and provides practical visitor information.
+
+--- Evaluation 2 ---
+Query: how to protect a Python web application
+Title: A Practical Guide to Python Web Security
+URL: https://example.com/python-security
+Overall score: 90.00/100
+Rating: Excellent
+Notes: Covers several relevant security practices with a clear technical structure.
+
+--- Evaluation 3 ---
+Query: current public transport information
+Title: Old Transport History Archive
+URL: https://example.com/transport-history
+Overall score: 45.00/100
+Rating: Poor
+Notes: Readable historical information, but it does not satisfy a current-information intent.
